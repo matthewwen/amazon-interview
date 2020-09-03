@@ -1,4 +1,4 @@
-from main import subStringK
+from Interview.SubStringSizeK.SubStringSizeK import subStringK
 
 
 def test1():

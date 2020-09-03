@@ -1,4 +1,4 @@
-from main import findPair
+from Interview.PairGivenSum.PairGivenSum import findPair
 
 
 def test1():

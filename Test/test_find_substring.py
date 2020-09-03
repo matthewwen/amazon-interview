@@ -1,4 +1,5 @@
-from main import get_explanation
+from Interview.FindSubString.FindSubString import get_explanation
+
 
 def test_is_successful():
     response = get_explanation("pqpqs", 2)
