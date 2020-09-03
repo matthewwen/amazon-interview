@@ -1,0 +1,1 @@
+def getExplanation(input, k):
